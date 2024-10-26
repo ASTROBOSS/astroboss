@@ -1,4 +1,21 @@
-## Hi there 👋
+# 🌌 Tijil Kiran | ASTROBOSS
+
+**📧 Email:** tijil.kiran@rutgers.edu  
+**🔗 [LinkedIn](https://www.linkedin.com/in/tijil-kiran/)**
+
+---
+
+## 👨‍💻 About Me
+
+I am an undergraduate student at **Rutgers University - New Brunswick**, studying **Mathematics and Computer Science**. My main interests are in algorithms, quantum computing, and most things physics and math-related.
+
+---
+
+## 🛠️ Technical Skills
+
+- **Languages:** Python, Java, C, C++, HTML/CSS, LaTeX, SQL, JavaScript, MATLAB, Bash  
+- **Technologies:** GitHub, Qiskit, React, Node.js, Tkinter, Cirq, Pytest  
+- **Tools:** Linux, Google Colab, Jupyter Notebook, VS Code
 
 <!--
 **ASTROBOSS/astroboss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
