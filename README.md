@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-I am an undergraduate student at **Rutgers University - New Brunswick**, studying **Mathematics and Computer Science**. My main interests are in algorithms, quantum computing, and most things physics and math-related.
+I am an undergraduate student at **Rutgers University - New Brunswick**, studying **Mathematics and Computer Science**. My main interests are in algorithms, quantum computing, computer graphics, and most things physics and math-related.
 
 ---
 
